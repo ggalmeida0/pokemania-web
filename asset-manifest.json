@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/pokemania/static/css/main.6bdb6662.chunk.css",
-    "main.js": "/pokemania/static/js/main.4d1b9e04.chunk.js",
-    "main.js.map": "/pokemania/static/js/main.4d1b9e04.chunk.js.map",
-    "runtime-main.js": "/pokemania/static/js/runtime-main.44e18ecd.js",
-    "runtime-main.js.map": "/pokemania/static/js/runtime-main.44e18ecd.js.map",
-    "static/js/2.c05a5776.chunk.js": "/pokemania/static/js/2.c05a5776.chunk.js",
-    "static/js/2.c05a5776.chunk.js.map": "/pokemania/static/js/2.c05a5776.chunk.js.map",
-    "index.html": "/pokemania/index.html",
-    "precache-manifest.acd6a9ceda7b5e0b99ca9add58f64145.js": "/pokemania/precache-manifest.acd6a9ceda7b5e0b99ca9add58f64145.js",
-    "service-worker.js": "/pokemania/service-worker.js",
-    "static/css/main.6bdb6662.chunk.css.map": "/pokemania/static/css/main.6bdb6662.chunk.css.map",
-    "static/js/2.c05a5776.chunk.js.LICENSE.txt": "/pokemania/static/js/2.c05a5776.chunk.js.LICENSE.txt",
-    "static/media/logo.png": "/pokemania/static/media/logo.c136471d.png"
+    "main.css": "/pokemania-web/static/css/main.6bdb6662.chunk.css",
+    "main.js": "/pokemania-web/static/js/main.efc31a17.chunk.js",
+    "main.js.map": "/pokemania-web/static/js/main.efc31a17.chunk.js.map",
+    "runtime-main.js": "/pokemania-web/static/js/runtime-main.41fe7408.js",
+    "runtime-main.js.map": "/pokemania-web/static/js/runtime-main.41fe7408.js.map",
+    "static/js/2.c05a5776.chunk.js": "/pokemania-web/static/js/2.c05a5776.chunk.js",
+    "static/js/2.c05a5776.chunk.js.map": "/pokemania-web/static/js/2.c05a5776.chunk.js.map",
+    "index.html": "/pokemania-web/index.html",
+    "precache-manifest.f5071eb73855fef867a673085b641d76.js": "/pokemania-web/precache-manifest.f5071eb73855fef867a673085b641d76.js",
+    "service-worker.js": "/pokemania-web/service-worker.js",
+    "static/css/main.6bdb6662.chunk.css.map": "/pokemania-web/static/css/main.6bdb6662.chunk.css.map",
+    "static/js/2.c05a5776.chunk.js.LICENSE.txt": "/pokemania-web/static/js/2.c05a5776.chunk.js.LICENSE.txt",
+    "static/media/logo.png": "/pokemania-web/static/media/logo.c136471d.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.44e18ecd.js",
+    "static/js/runtime-main.41fe7408.js",
     "static/js/2.c05a5776.chunk.js",
     "static/css/main.6bdb6662.chunk.css",
-    "static/js/main.4d1b9e04.chunk.js"
+    "static/js/main.efc31a17.chunk.js"
   ]
 }
