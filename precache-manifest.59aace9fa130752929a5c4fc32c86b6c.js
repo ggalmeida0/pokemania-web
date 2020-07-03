@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cbfcbc763f968063104a4562d31759fd",
+    "revision": "e9b250f27355a6dfdee202580627eec0",
     "url": "/pokemania-web/index.html"
   },
   {
