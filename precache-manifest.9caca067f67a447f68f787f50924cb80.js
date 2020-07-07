@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "75a2b8f8d469143e8584b41463d48308",
+    "revision": "3b595b1198b14f14f5cfdb5f8ce36ed3",
     "url": "/pokemania-web/index.html"
   },
   {
-    "revision": "aa4b271887a999cd5501",
+    "revision": "f4c2cfe258b9161cb27b",
     "url": "/pokemania-web/static/css/main.b6b44899.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pokemania-web/static/js/2.0d7708d0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "aa4b271887a999cd5501",
-    "url": "/pokemania-web/static/js/main.96579d9c.chunk.js"
+    "revision": "f4c2cfe258b9161cb27b",
+    "url": "/pokemania-web/static/js/main.04badb72.chunk.js"
   },
   {
     "revision": "ca3a3d488a117628cf4b",
