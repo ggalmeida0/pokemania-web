@@ -1,22 +1,27 @@
 {
   "files": {
     "main.css": "/pokemania-web/static/css/main.b6b44899.chunk.css",
-    "main.js": "/pokemania-web/static/js/main.a26d4cbe.chunk.js",
-    "main.js.map": "/pokemania-web/static/js/main.a26d4cbe.chunk.js.map",
+    "main.js": "/pokemania-web/static/js/main.0900a0f0.chunk.js",
+    "main.js.map": "/pokemania-web/static/js/main.0900a0f0.chunk.js.map",
     "runtime-main.js": "/pokemania-web/static/js/runtime-main.41fe7408.js",
     "runtime-main.js.map": "/pokemania-web/static/js/runtime-main.41fe7408.js.map",
-    "static/js/2.0d7708d0.chunk.js": "/pokemania-web/static/js/2.0d7708d0.chunk.js",
-    "static/js/2.0d7708d0.chunk.js.map": "/pokemania-web/static/js/2.0d7708d0.chunk.js.map",
+    "static/js/2.263d48d5.chunk.js": "/pokemania-web/static/js/2.263d48d5.chunk.js",
+    "static/js/2.263d48d5.chunk.js.map": "/pokemania-web/static/js/2.263d48d5.chunk.js.map",
     "index.html": "/pokemania-web/index.html",
-    "precache-manifest.654c3eb34266bb5471f05c3d4a2f2941.js": "/pokemania-web/precache-manifest.654c3eb34266bb5471f05c3d4a2f2941.js",
+    "precache-manifest.52e6a4b7bf7ef0ac828663b9e585c1fa.js": "/pokemania-web/precache-manifest.52e6a4b7bf7ef0ac828663b9e585c1fa.js",
     "service-worker.js": "/pokemania-web/service-worker.js",
     "static/css/main.b6b44899.chunk.css.map": "/pokemania-web/static/css/main.b6b44899.chunk.css.map",
-    "static/js/2.0d7708d0.chunk.js.LICENSE.txt": "/pokemania-web/static/js/2.0d7708d0.chunk.js.LICENSE.txt",
+    "static/js/2.263d48d5.chunk.js.LICENSE.txt": "/pokemania-web/static/js/2.263d48d5.chunk.js.LICENSE.txt",
     "static/media/dagda.png": "/pokemania-web/static/media/dagda.4103b4f6.png",
     "static/media/gabe.png": "/pokemania-web/static/media/gabe.61a3caa6.png",
     "static/media/infinity.png": "/pokemania-web/static/media/infinity.4aac6024.png",
     "static/media/logo.png": "/pokemania-web/static/media/logo.c136471d.png",
     "static/media/pokeland.png": "/pokemania-web/static/media/pokeland.a046d725.png",
+    "static/media/pokemoncatcher.png": "/pokemania-web/static/media/pokemoncatcher.66ab283f.png",
+    "static/media/pokemonchampion.png": "/pokemania-web/static/media/pokemonchampion.538b645a.png",
+    "static/media/pokemonfan.png": "/pokemania-web/static/media/pokemonfan.55d1c621.png",
+    "static/media/pokemonmaster.jpg": "/pokemania-web/static/media/pokemonmaster.5d6994c5.jpg",
+    "static/media/pokemontrainer.png": "/pokemania-web/static/media/pokemontrainer.7712794d.png",
     "static/media/predecessors.png": "/pokemania-web/static/media/predecessors.4dad67e7.png",
     "static/media/quant.gif": "/pokemania-web/static/media/quant.8946d8e7.gif",
     "static/media/soda.png": "/pokemania-web/static/media/soda.fd2e3fa5.png",
@@ -24,8 +29,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.41fe7408.js",
-    "static/js/2.0d7708d0.chunk.js",
+    "static/js/2.263d48d5.chunk.js",
     "static/css/main.b6b44899.chunk.css",
-    "static/js/main.a26d4cbe.chunk.js"
+    "static/js/main.0900a0f0.chunk.js"
   ]
 }

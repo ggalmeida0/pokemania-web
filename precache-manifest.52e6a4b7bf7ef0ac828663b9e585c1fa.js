@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a01036a3ed32ae159df6e79fa5d8be5b",
+    "revision": "8f87c3abcf618b0ca91f7932e246282e",
     "url": "/pokemania-web/index.html"
   },
   {
-    "revision": "70428e5926ed0eb862f2",
+    "revision": "3d9c161aefa942976b9b",
     "url": "/pokemania-web/static/css/main.b6b44899.chunk.css"
   },
   {
-    "revision": "a28c8bf2c72c536ca238",
-    "url": "/pokemania-web/static/js/2.0d7708d0.chunk.js"
+    "revision": "4c7909150c5925b4a11e",
+    "url": "/pokemania-web/static/js/2.263d48d5.chunk.js"
   },
   {
     "revision": "0749163b59fbee32225059cb60c18af6",
-    "url": "/pokemania-web/static/js/2.0d7708d0.chunk.js.LICENSE.txt"
+    "url": "/pokemania-web/static/js/2.263d48d5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "70428e5926ed0eb862f2",
-    "url": "/pokemania-web/static/js/main.a26d4cbe.chunk.js"
+    "revision": "3d9c161aefa942976b9b",
+    "url": "/pokemania-web/static/js/main.0900a0f0.chunk.js"
   },
   {
     "revision": "ca3a3d488a117628cf4b",
@@ -42,6 +42,26 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "a046d72566881f4d4a4afd32c2fe3189",
     "url": "/pokemania-web/static/media/pokeland.a046d725.png"
+  },
+  {
+    "revision": "66ab283f01143746f4b669b1c6879e87",
+    "url": "/pokemania-web/static/media/pokemoncatcher.66ab283f.png"
+  },
+  {
+    "revision": "538b645a3bd4407e63080cc69d5d000c",
+    "url": "/pokemania-web/static/media/pokemonchampion.538b645a.png"
+  },
+  {
+    "revision": "55d1c6214d2f019a9bd0be928263c769",
+    "url": "/pokemania-web/static/media/pokemonfan.55d1c621.png"
+  },
+  {
+    "revision": "5d6994c5c7d31fb0fa5db590eb4ca995",
+    "url": "/pokemania-web/static/media/pokemonmaster.5d6994c5.jpg"
+  },
+  {
+    "revision": "7712794de4f11c78f34a5f426bab8bc6",
+    "url": "/pokemania-web/static/media/pokemontrainer.7712794d.png"
   },
   {
     "revision": "4dad67e74008e609866f12f0fa308ebf",
