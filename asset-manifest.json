@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/pokemania-web/static/css/main.b6b44899.chunk.css",
-    "main.js": "/pokemania-web/static/js/main.0900a0f0.chunk.js",
-    "main.js.map": "/pokemania-web/static/js/main.0900a0f0.chunk.js.map",
+    "main.js": "/pokemania-web/static/js/main.132d4553.chunk.js",
+    "main.js.map": "/pokemania-web/static/js/main.132d4553.chunk.js.map",
     "runtime-main.js": "/pokemania-web/static/js/runtime-main.41fe7408.js",
     "runtime-main.js.map": "/pokemania-web/static/js/runtime-main.41fe7408.js.map",
     "static/js/2.263d48d5.chunk.js": "/pokemania-web/static/js/2.263d48d5.chunk.js",
     "static/js/2.263d48d5.chunk.js.map": "/pokemania-web/static/js/2.263d48d5.chunk.js.map",
     "index.html": "/pokemania-web/index.html",
-    "precache-manifest.52e6a4b7bf7ef0ac828663b9e585c1fa.js": "/pokemania-web/precache-manifest.52e6a4b7bf7ef0ac828663b9e585c1fa.js",
+    "precache-manifest.6329fee365700370c95987df96b4e746.js": "/pokemania-web/precache-manifest.6329fee365700370c95987df96b4e746.js",
     "service-worker.js": "/pokemania-web/service-worker.js",
     "static/css/main.b6b44899.chunk.css.map": "/pokemania-web/static/css/main.b6b44899.chunk.css.map",
     "static/js/2.263d48d5.chunk.js.LICENSE.txt": "/pokemania-web/static/js/2.263d48d5.chunk.js.LICENSE.txt",
@@ -31,6 +31,6 @@
     "static/js/runtime-main.41fe7408.js",
     "static/js/2.263d48d5.chunk.js",
     "static/css/main.b6b44899.chunk.css",
-    "static/js/main.0900a0f0.chunk.js"
+    "static/js/main.132d4553.chunk.js"
   ]
 }

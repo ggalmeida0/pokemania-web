@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/pokemania-web/precache-manifest.52e6a4b7bf7ef0ac828663b9e585c1fa.js"
+  "/pokemania-web/precache-manifest.6329fee365700370c95987df96b4e746.js"
 );
 
 self.addEventListener('message', (event) => {
